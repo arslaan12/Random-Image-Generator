@@ -1,0 +1,17 @@
+/* Box Class */
+.box {
+    height: 80vh;
+    width: 51vw;
+    margin-left: 30%;
+    border: 5px solid yellow;
+}
+
+/* Search Bar */
+.search {
+    margin-left: 45%;
+}
+
+/* Heading */
+.heading {
+    margin-left: 45%;
+}
